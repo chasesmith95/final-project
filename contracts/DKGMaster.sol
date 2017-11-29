@@ -17,7 +17,6 @@ contract DKG {
 	//private key finally
 	mapping (bytes32 => bytes32[]) shared_secret_keys;
 	//private keys ...
-	//
 	mapping (address => bool) accepted; // whether or not these
 	//mapping (address => stuff) check; //this should be a list of all of the shared secret keys
 	uint limit;
