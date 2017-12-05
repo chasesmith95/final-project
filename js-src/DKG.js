@@ -9,8 +9,8 @@ Required imports
  -polynomialoperator
 */
 
-import elgamal from 'ELGamal' //does this work?
-import poly from 'polynomialoperator' //does this work?
+import elgamal from 'ELGamal'
+import poly from 'polynomialoperator' 
 var bigInt = require("big-integer");
 
 
